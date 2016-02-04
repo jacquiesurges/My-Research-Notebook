@@ -12,8 +12,21 @@
 * Toronto Star & Globe and Mail digitized by private companies - why is this potentially problematic?
 * How do the tools we're using shape our research?
 
-##Exercise 1: The Dream Case
+###Exercise 1: The Dream Case
 
 * data sorted into pre-existing database, compilers should have laid out their methodologies & decision making process
 * Searched Commonwealth War Graves Commission database for war dead> surname: Racine
 * Results saved in downloads as excel spreadsheet, look for CasualtySearch
+
+###Exercise 2: Outwit Hub
+
+* Downloaded free trial of OutwitHub
+* Software that allows you to scrape the HTML of a website
+* Ran exercise as per instructions in notebook, results can be found in Documents folder
+
+* Really confusing as to what exactly this is doing, but it did come up with some cool data
+* Brought up information on the use of "pie" and different meanings
+To do in Mod 2. reflection: Write this exercise up in your notebook. What other data does outwit include with your export? How might that data be useful?
+
+###Exercise 3: APIs
+
