@@ -24,9 +24,10 @@
 * Software that allows you to scrape the HTML of a website
 * Ran exercise as per instructions in notebook, results can be found in Documents folder
 
+**To do in Mod 2. reflection: Write this exercise up in your notebook. What other data does outwit include with your export? How might that data be useful?**
 * Really confusing as to what exactly this is doing, but it did come up with some cool data
 * Brought up information on the use of "pie" and different meanings
-To do in Mod 2. reflection: Write this exercise up in your notebook. What other data does outwit include with your export? How might that data be useful?
+
 
 ###Exercise 3: APIs
 
@@ -37,3 +38,8 @@ To do in Mod 2. reflection: Write this exercise up in your notebook. What other 
 * search query can be seen by looking at the URL: http://search.canadiana.ca/search?q=ottawa&field=&df=1800&dt=1900
 * Everything after "/search" is a command you are sending to the Canadiana server
 * Guide to API commands [here](http://search.canadiana.ca/support/api)
+* Add "&fmt=json" to the end of URL to translate to JSON
+* Each individual item in the new JSON list of our search has an oocihm number attached to it: how do we retrieve these?
+
+* Wget is a useful program, run through your computer’s command line, for retrieving online material
+* Saves time, alternative to right clicking and saving everything individually
