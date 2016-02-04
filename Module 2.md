@@ -30,3 +30,10 @@ To do in Mod 2. reflection: Write this exercise up in your notebook. What other 
 
 ###Exercise 3: APIs
 
+* application programming interface, allows your computer to talk to host site's computer so it will share data with you
+* simplified explanation: your computer puts in the search terms rather than you - means they generally come back in a machine-readable format 
+* ie. JSON format
+* Search ottawa, date range 1900 to 1900 on Canadiana Discovery Portal
+* search query can be seen by looking at the URL: http://search.canadiana.ca/search?q=ottawa&field=&df=1800&dt=1900
+* Everything after "/search" is a command you are sending to the Canadiana server
+* Guide to API commands [here](http://search.canadiana.ca/support/api)
