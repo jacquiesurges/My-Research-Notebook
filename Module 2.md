@@ -11,3 +11,9 @@
 * can miss pieces of articles continued from previous pages by chance because of placement of headline/keywords
 * Toronto Star & Globe and Mail digitized by private companies - why is this potentially problematic?
 * How do the tools we're using shape our research?
+
+##Exercise 1: The Dream Case
+
+* data sorted into pre-existing database, compilers should have laid out their methodologies & decision making process
+* Searched Commonwealth War Graves Commission database for war dead> surname: Racine
+* Results saved in downloads as excel spreadsheet, look for CasualtySearch
