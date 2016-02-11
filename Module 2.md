@@ -43,3 +43,7 @@
 
 * Wget is a useful program, run through your computer’s command line, for retrieving online material
 * Saves time, alternative to right clicking and saving everything individually
+* Homebrew: package manager software, runs through Terminal
+* http://brew.sh/
+* Runs using Ruby language?
+* JQ: helper program that reads .json data
