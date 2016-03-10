@@ -65,5 +65,7 @@ Here, Dr. Graham advised me to skip it (I didn't leave myself enough time). :(
 * Problem: sites can simply include robot.txt in the code of their sites and Wayback will automatically omit it from its records
 
 Following steps found [here][http://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/] to save search results using wget
-* 
+* Use archive.org to identify a search query
+
+*Can also archive Twitter to JSON using [this][https://github.com/shawngraham/twarc]
  
