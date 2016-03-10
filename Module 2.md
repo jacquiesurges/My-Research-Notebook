@@ -43,7 +43,19 @@
 
 * Wget is a useful program, run through your computer’s command line, for retrieving online material
 * Saves time, alternative to right clicking and saving everything individually
+* Enables you to download either an entire site or entire section of a site that falls under a certain section of its menu hierarchy
 * Homebrew: package manager software, runs through Terminal
 * http://brew.sh/
 * Runs using Ruby language?
 * JQ: helper program that reads .json data
+
+Here, Dr. Graham advised me to skip it (I didn't leave myself enough time). :(
+
+###Exercise 4: Tracking the ephemeral web
+
+* Data on the web can be outdated within a matter of hours
+* http://www.anonymousswisscollector.com/2015/10/saving-info-and-your-skin-on-the-ephemeral-internet-a-how-to-for-researchers.html
+* Sometimes, data/info on the web will disappear
+* Critical for researchers to archive it to save their work & reputations
+* 
+ 
