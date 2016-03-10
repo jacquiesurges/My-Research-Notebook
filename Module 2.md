@@ -57,5 +57,13 @@ Here, Dr. Graham advised me to skip it (I didn't leave myself enough time). :(
 * http://www.anonymousswisscollector.com/2015/10/saving-info-and-your-skin-on-the-ephemeral-internet-a-how-to-for-researchers.html
 * Sometimes, data/info on the web will disappear
 * Critical for researchers to archive it to save their work & reputations
+* Wayback bookmarklet, allows you to save current version and access any previous versions of a given page
+* Can also give access to older versions of a page if it comes back as a 404
+* Access these at archive.org
+* BibDesk, allows to save & organize PDF's of academic articles
+* Also, print & back up your files
+* Problem: sites can simply include robot.txt in the code of their sites and Wayback will automatically omit it from its records
+
+Following steps found [here][http://blog.archive.org/2012/04/26/downloading-in-bulk-using-wget/] to save search results using wget
 * 
  
