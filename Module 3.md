@@ -7,8 +7,8 @@
 * root, contains everything else
 * nodes, components & subcomponents of root
 * humanities scholars use for two reasons:
-*1. human documents tend to translate well into XML b/c of ordered hierarchies
-*2. computers can operate quickly and efficiently on trees 
+1 human documents tend to translate well into XML b/c of ordered hierarchies
+2 computers can operate quickly and efficiently on trees 
 * first step in digital humanities: document analysis
 * consider the documents you intend to use: identify useful hierarchical structure within them
 * next, mark up/encode, make that hierarchy accessible to the computer 
@@ -24,7 +24,7 @@
 * tags written into text of XML documents, then read by XML-aware software
 * end users typically don't see brackets
 * four types of content:
-1.
-2.
-3.
-4.
+1 element content
+2 text content
+3 mixed content
+4 empty element 
