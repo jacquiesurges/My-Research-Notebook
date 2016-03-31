@@ -25,7 +25,9 @@
 * XML models using elements: consist of start tag, content and end tag
 * tags written into text of XML documents, then read by XML-aware software
 * end users typically don't see brackets
-* four types of content:
+
+four types of content:
+
 1. element content
 2. text content
 3. mixed content
