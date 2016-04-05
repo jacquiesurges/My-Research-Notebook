@@ -4,4 +4,4 @@
 
 * visualization can help identify holes or mistakes
 
-###Exercise 1 
+###[Exercises][http://workbook.craftingdigitalhistory.ca/module-4/Exercises/]
